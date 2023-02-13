@@ -1,0 +1,25 @@
+{
+  "name": "custom_workflow",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000u\u0000s\u0000t\u0000o\u0000m\u0000_\u0000w\u0000o\u0000r\u0000k\u0000f\u0000l\u0000o\u0000w\u0000\r\u0000 \u0000",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-r-chauhan/custom_workflow.git"
+  },
+  "author": "anil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anil-r-chauhan/custom_workflow/issues"
+  },
+  "homepage": "https://github.com/anil-r-chauhan/custom_workflow#readme",
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@material-ui/core": "4.12.4",
+    "@mui/material": "5.11.8"
+  }
+}
